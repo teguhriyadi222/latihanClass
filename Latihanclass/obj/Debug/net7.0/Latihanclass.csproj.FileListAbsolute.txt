@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\latihanClass\Latihanclass\obj\Debug\net7.0\Latihanclass.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\latihanClass\Latihanclass\obj\Debug\net7.0\Latihanclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\latihanClass\Latihanclass\obj\Debug\net7.0\Latihanclass.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\latihanClass\Latihanclass\obj\Debug\net7.0\Latihanclass.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\latihanClass\Latihanclass\obj\Debug\net7.0\Latihanclass.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\latihanClass\Latihanclass\bin\Debug\net7.0\Latihanclass.exe
+C:\Users\Batch 2\Documents\latihanClass\Latihanclass\bin\Debug\net7.0\Latihanclass.deps.json
+C:\Users\Batch 2\Documents\latihanClass\Latihanclass\bin\Debug\net7.0\Latihanclass.runtimeconfig.json
+C:\Users\Batch 2\Documents\latihanClass\Latihanclass\bin\Debug\net7.0\Latihanclass.dll
+C:\Users\Batch 2\Documents\latihanClass\Latihanclass\bin\Debug\net7.0\Latihanclass.pdb
+C:\Users\Batch 2\Documents\latihanClass\Latihanclass\obj\Debug\net7.0\Latihanclass.dll
+C:\Users\Batch 2\Documents\latihanClass\Latihanclass\obj\Debug\net7.0\refint\Latihanclass.dll
+C:\Users\Batch 2\Documents\latihanClass\Latihanclass\obj\Debug\net7.0\Latihanclass.pdb
+C:\Users\Batch 2\Documents\latihanClass\Latihanclass\obj\Debug\net7.0\Latihanclass.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\latihanClass\Latihanclass\obj\Debug\net7.0\ref\Latihanclass.dll
