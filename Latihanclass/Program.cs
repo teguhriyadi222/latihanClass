@@ -5,8 +5,6 @@
     public int? age;
     private int? _salary;
 
-    private string? _agama;
-
     public manusia(string name, int age) {
         this.name = name;
         this.age = age;
